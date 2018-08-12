@@ -1,0 +1,4 @@
+#Sat Aug 11 17:36:17 IDT 2018
+base.0=/home/yaniv-k/AndroidStudioProjects/Punkt/app/build/intermediates/transforms/dexMerger/debug/34
+path.0=classes.dex
+renamed.0=classes.dex

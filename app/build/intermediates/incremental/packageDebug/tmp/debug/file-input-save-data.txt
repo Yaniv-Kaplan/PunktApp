@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Aug 11 17:36:17 IDT 2018
+0.baseType=DIRECTORY
+0.base=/home/yaniv-k/AndroidStudioProjects/Punkt/app/build/intermediates/transforms/dexMerger/debug/34
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Punkt</string>
+    <string name="main_text">אפליקציה שלא\nמאחרת, להסעה שכן</string>
+    <string name="title_activity_login_v02">Login_v02</string>
+    <string name="title_activity_login__v02">Login_V02</string>
+    <string name="button">Button</string>
+    <string name="text_welcome" />
+    <string name="welcome_text">ברוך הבא! היכנס עכשיו</string>
+    <string name="login_text">אנחנו סומכים עליכם ולכן\nאין צורך בסיסמא</string>
+    <string name="punkt_descript_reg">ברוך הבא לדף ההרשמה\nהמשך את התהליך על-ידי לחיצה על הכפתור</string>
+</resources>

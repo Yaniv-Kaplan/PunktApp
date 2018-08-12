@@ -1,0 +1,303 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/e402ec20cfe13144a877982594427df4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4b02877630f7605eb1c4c29f5043910f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01d0114199623a0ea9025b88015ab62b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/80c98eb093e6f145ba7aaf0e0c7d4eb4/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/b738a529ea4e5862b427cddce03b4004/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/c9fd08be50cdc9d01b76d3a3a0d81c63/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/434acf38928af4a6fd9b6d0bca28ab65/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/711da21a72842794029017d61edb72a9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e98e4533d30da53f1e25533257845736/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/6c1b76bc52093e930c28267e08e38b6d/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/42ab98702503c30e53e9267eefe71cc2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/879612645ae80aa9a23bd9de5f3b667a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/43936953160a555e8c3bb475aa78bf5f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af3ab9a0c45e8ed99affd076884321bd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/64e657a004e899f55e34f57ee8f5fac5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/28e38f37b879a105b81644ab9666992f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/5d994232821d971e9b6c6ee4e5d510d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6ac6c6b58513e5a9f26b0df82bea5c6e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/35cc096384c5d06b286e37eb04522668/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/fc1d151537618ebabc450a86fd2f1de5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ede30a6aeb77e6425fc11adc843ab81e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/22a4498f3ebb43953b318da48108aa85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/23aaf4b2241eff9120c660b9c0bd96fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10b64eeecf62e9f5c9c7f23bef73ff69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/376399a2169dc8b43c4459e2da2fe97d/AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/75b6cb19f8d348f6b0b364766b953e05/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e09c39077cfec69fc3dba3087d15fbe9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/b29cace21e93c677037fa9f1038dfa0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/071923e6e90dc665c396faf146a8bd59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/8dc2f35527b0e5ca9267fcb9b4dfa20f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c25061aba4dab918eff55f1a41b9511/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/97497099f0ba29c2891d0076e4fe22cb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/46bba2f73464f8cfec95f3d5205285c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/30b40b71ec19291745ffe7e5e05aa3f0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:5:5-38:19
+MERGED from [com.android.support:design:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/e402ec20cfe13144a877982594427df4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/e402ec20cfe13144a877982594427df4/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01d0114199623a0ea9025b88015ab62b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01d0114199623a0ea9025b88015ab62b/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:30:5-20
+MERGED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/711da21a72842794029017d61edb72a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/711da21a72842794029017d61edb72a9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e98e4533d30da53f1e25533257845736/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e98e4533d30da53f1e25533257845736/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/6c1b76bc52093e930c28267e08e38b6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/6c1b76bc52093e930c28267e08e38b6d/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/376399a2169dc8b43c4459e2da2fe97d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/376399a2169dc8b43c4459e2da2fe97d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/30b40b71ec19291745ffe7e5e05aa3f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/30b40b71ec19291745ffe7e5e05aa3f0/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:11:9-59
+activity#com.example.yaniv.punkt.SplashActivity
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:23:9-31:20
+	android:theme
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:24:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.yaniv.punkt.MainActivity
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:32:9-50
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:32:19-47
+activity#com.example.yaniv.punkt.Login
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:33:9-43
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:33:19-40
+activity#com.example.yaniv.punkt.Login_V02
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:34:9-47
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:34:19-44
+activity#com.example.yaniv.punkt.EasterEgg
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:35:9-47
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:35:19-44
+activity#com.example.yaniv.punkt.Register_V02
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:36:9-50
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:36:19-47
+activity#com.example.yaniv.punkt.Register_V02_P2
+ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:37:9-62
+	android:name
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml:37:19-50
+uses-sdk
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/e402ec20cfe13144a877982594427df4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/design-28.0.0-rc01.aar/e402ec20cfe13144a877982594427df4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4b02877630f7605eb1c4c29f5043910f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/4b02877630f7605eb1c4c29f5043910f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01d0114199623a0ea9025b88015ab62b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/01d0114199623a0ea9025b88015ab62b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/80c98eb093e6f145ba7aaf0e0c7d4eb4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/80c98eb093e6f145ba7aaf0e0c7d4eb4/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/b738a529ea4e5862b427cddce03b4004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/transition-28.0.0-rc01.aar/b738a529ea4e5862b427cddce03b4004/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/c9fd08be50cdc9d01b76d3a3a0d81c63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0-rc01.aar/c9fd08be50cdc9d01b76d3a3a0d81c63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/434acf38928af4a6fd9b6d0bca28ab65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0-rc01.aar/434acf38928af4a6fd9b6d0bca28ab65/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/711da21a72842794029017d61edb72a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/711da21a72842794029017d61edb72a9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e98e4533d30da53f1e25533257845736/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/e98e4533d30da53f1e25533257845736/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/6c1b76bc52093e930c28267e08e38b6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/6c1b76bc52093e930c28267e08e38b6d/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/42ab98702503c30e53e9267eefe71cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/42ab98702503c30e53e9267eefe71cc2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/879612645ae80aa9a23bd9de5f3b667a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/879612645ae80aa9a23bd9de5f3b667a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/43936953160a555e8c3bb475aa78bf5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/43936953160a555e8c3bb475aa78bf5f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af3ab9a0c45e8ed99affd076884321bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/af3ab9a0c45e8ed99affd076884321bd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/64e657a004e899f55e34f57ee8f5fac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/64e657a004e899f55e34f57ee8f5fac5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/28e38f37b879a105b81644ab9666992f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/28e38f37b879a105b81644ab9666992f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/5d994232821d971e9b6c6ee4e5d510d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/5d994232821d971e9b6c6ee4e5d510d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6ac6c6b58513e5a9f26b0df82bea5c6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/6ac6c6b58513e5a9f26b0df82bea5c6e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/35cc096384c5d06b286e37eb04522668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/35cc096384c5d06b286e37eb04522668/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/fc1d151537618ebabc450a86fd2f1de5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/fc1d151537618ebabc450a86fd2f1de5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ede30a6aeb77e6425fc11adc843ab81e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/ede30a6aeb77e6425fc11adc843ab81e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/22a4498f3ebb43953b318da48108aa85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/22a4498f3ebb43953b318da48108aa85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/23aaf4b2241eff9120c660b9c0bd96fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/23aaf4b2241eff9120c660b9c0bd96fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/2ee9440cc0a9c321b057d333a73c8137/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10b64eeecf62e9f5c9c7f23bef73ff69/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/10b64eeecf62e9f5c9c7f23bef73ff69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/376399a2169dc8b43c4459e2da2fe97d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/376399a2169dc8b43c4459e2da2fe97d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/75b6cb19f8d348f6b0b364766b953e05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/75b6cb19f8d348f6b0b364766b953e05/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e09c39077cfec69fc3dba3087d15fbe9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/e09c39077cfec69fc3dba3087d15fbe9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/b29cace21e93c677037fa9f1038dfa0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/b29cace21e93c677037fa9f1038dfa0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/071923e6e90dc665c396faf146a8bd59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/071923e6e90dc665c396faf146a8bd59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/8dc2f35527b0e5ca9267fcb9b4dfa20f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/8dc2f35527b0e5ca9267fcb9b4dfa20f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c25061aba4dab918eff55f1a41b9511/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/3c25061aba4dab918eff55f1a41b9511/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/97497099f0ba29c2891d0076e4fe22cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/97497099f0ba29c2891d0076e4fe22cb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/46bba2f73464f8cfec95f3d5205285c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/46bba2f73464f8cfec95f3d5205285c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/30b40b71ec19291745ffe7e5e05aa3f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/30b40b71ec19291745ffe7e5e05aa3f0/AndroidManifest.xml:20:5-44
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/80c98eb093e6f145ba7aaf0e0c7d4eb4/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		ADDED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+		INJECTED from /home/yaniv-k/AndroidStudioProjects/Punkt/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/b4c1af6d0288ecddf5297c428fd405e7/AndroidManifest.xml:28:9-32
+meta-data#android.support.VERSION
+ADDED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/5095741f7ad6bab8ecfe5bcdee615a2b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/251ebbfb5ba3634dc0361ca127407991/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:customtabs:26.1.0] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/customtabs-26.1.0.aar/8095b590402ad2177775a7893af54922/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/2ad6cddabd7a746e4c7059d5090595b3/AndroidManifest.xml:30:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/d6e33dfbcd2a06d251faaf0e041bd4f4/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /home/yaniv-k/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d4461dea59ffc40cbc3f3ee455d12ea7/AndroidManifest.xml:24:13-58
